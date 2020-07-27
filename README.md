@@ -1,1 +1,1 @@
-# Pokemon-Batttle-GPR8a
+# Pokemon-Battle-GPR8a
